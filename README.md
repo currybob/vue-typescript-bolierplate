@@ -1,26 +1,19 @@
-# vue-boilerplate
+# vue-typesript-boilerplate
 
-## Project setup
-```
-npm install
-```
+This boilerplate is based on vue-cli ver 3
 
-### Compiles and hot-reloads for development
+### install
+
 ```
-npm run serve
+git clone "https://github.com/likelionWonHo/vue-typescript-bolierplate.git" 'your-project-name'
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Contains
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+- axios with vue-axios
+- vue-router
+- vuex
+- vuex-persistedstate
+- typescript
+- prettier
+- element-ui for vue
